@@ -66,6 +66,8 @@ flowchart TD
   C --> C3[JsonCuteWriter]
   C2 --> C3
   C3 --> C4[cute-json-output/SweetPerson.json]
+
+
 ✨ Features
 
 Demonstrates polymorphism via method overriding (@Override)
@@ -160,6 +162,4 @@ target/
 
 📌 Notes
 
-This repository focuses on learning annotation concepts used by frameworks such as Spring and JPA.
 
-JSON generation is intentionally implemented without third-party libraries to practice Reflection and core Java APIs.

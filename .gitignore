@@ -1,4 +1,17 @@
-﻿target/
+﻿# Maven / Java build
+target/
+out/
+*.class
+
+# IntelliJ IDEA
 .idea/
 *.iml
-out/
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
